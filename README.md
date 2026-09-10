@@ -24,23 +24,19 @@ I’m building toward back-office and analytical roles where I can combine banki
 
 **Banking & Operations:** Operational controls, performance management, coaching, compliance workflows, process documentation, branch operations
 
-## 📊 Featured Project
+## 📊 Featured Projects
 
 ### [Employee Performance Portfolio](https://github.com/kellievyhlidal/EmployeePortfolio)
 
 An Excel-based performance management dashboard designed to consolidate multiple KPIs into a practical employee-level view for coaching and decision-making.
 
-The public portfolio version demonstrates:
+The public portfolio version demonstrates formula-driven KPI calculations, weighted performance scoring, 12-month performance tracking, trend visualization, quality metrics, and repeatable management reporting. The original concept was presented to leadership and later refined and adapted for broader regional use.
 
-- Formula-driven KPI calculations
-- Weighted performance scoring
-- 12-month performance tracking
-- Trend visualization
-- Quality, retention, and follow-up metrics
-- Employee coaching and development tracking
-- Repeatable monthly reporting workflows
+### [Operations KPI Dashboard](https://github.com/kellievyhlidal/OperationsKPIDashboard)
 
-The original concept was presented to leadership and later refined and adapted for broader regional use. The public version uses fully fictional data, generalized terminology, and fictional scoring weights.
+An executive-style Excel operations dashboard built from a fictional dataset to analyze throughput, SLA performance, error rates, turnaround time, backlog, productivity, workstream performance, and team comparisons.
+
+The project demonstrates structured data design, formula-driven KPI reporting, operational trend analysis, dashboard development, and translating raw production data into decision-ready insights.
 
 ## 📚 Currently Learning
 
